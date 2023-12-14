@@ -6,7 +6,6 @@
 
 <h1 align="center">Hi 👋, I'm Abdullah Rakib</h1>
 <h3 align="center">Programmer | Web Designer | Speed Learner</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
 
 <div align="center">
 
@@ -53,7 +52,15 @@ Skills: BOOTSTRAP / REACT / JS / HTML / CSS
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
-<br>
+
+## Best Repo -
+
+[![Animated_form](https://github-readme-stats.vercel.app/api/pin/?username=Rakib5570&repo=Animated_form&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Rakib5570/Animated_form)
+<br/>
+[![FAQ-accordion](https://github-readme-stats.vercel.app/api/pin/?username=Rakib5570&repo=FAQ-accordion&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Rakib5570/FAQ-accordion)
+
+
+<br/>
 
 <p align="left">
   <a href="https://github.com/Rakib5570?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
